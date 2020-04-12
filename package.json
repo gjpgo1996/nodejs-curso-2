@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-curso-2",
+  "version": "0.0.1",
+  "description": "un curso de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjpgo1996/nodejs-curso-2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "Pipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjpgo1996/nodejs-curso-2/issues"
+  },
+  "homepage": "https://github.com/gjpgo1996/nodejs-curso-2#readme"
+}
